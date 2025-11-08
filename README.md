@@ -182,7 +182,7 @@ It reduces manual drafting time, enhances accuracy, and supports researchers, st
 
 ## 📜 License
 
-This project is released under the **MIT License**.
+This project is released under the [**MIT License**](https://github.com/<your-username>/AI-Research-Lab-Simulator/blob/main/LICENSE).
 
 ---
 
