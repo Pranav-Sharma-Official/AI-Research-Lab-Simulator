@@ -26,6 +26,7 @@
 11. [Future Scope](#-future-scope)
 12. [Team & Credits](#-team--contributions)
 13. [License](#-license)
+14. [Report](#-report)
 
 ---
 
@@ -184,6 +185,12 @@ It reduces manual drafting time, enhances accuracy, and supports researchers, st
 ## 📜 License
 
 This project is released under the [**MIT License**](https://github.com/Pranav-Sharma-Official/AI-Research-Lab-Simulator/blob/main/LICENSE).
+
+---
+
+## Report
+
+View my detailed report here: [**REPORT**](https://docs.google.com/document/d/1hRskfuVax1BKFbKbjj4qcUlu2lLuYc8f/edit?usp=sharing&ouid=116740219841548536927&rtpof=true&sd=true)
 
 ---
 
