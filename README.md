@@ -108,17 +108,17 @@ Steps:
   <img src="assets/demo1.png" alt="UI Screenshot" width="80%"/>
 </p>
 
-* 🖤 Dark glassy UI with glowing cyan elements.
-* 📊 Live progress tracking for all 7 agents.
-* 💬 Persistent chat assistant using Streamlit’s chat UI.
-* 🧾 Real-time result rendering with collapsible outputs.
+* 🖤 Dark glassy UI with glowing cyan elements.\
+* 📊 Live progress tracking for all 7 agents.\
+* 💬 Persistent chat assistant using Streamlit’s chat UI.\
+* 🧾 Real-time result rendering with collapsible outputs.\
 * 💡 Responsive for both laptops and tablets.
 
 ---
 
 ## 💡 Innovation & Impact
 
-This project bridges **AI and Academia**, demonstrating how Gen AI can assist in research content generation.
+This project bridges **AI and Academia**, demonstrating how Gen AI can assist in research content generation.\
 It reduces manual drafting time, enhances accuracy, and supports researchers, students, and educators in academic publishing.
 
 **Applications:**
@@ -154,11 +154,11 @@ It reduces manual drafting time, enhances accuracy, and supports researchers, st
 
 ## 🔮 Future Scope
 
-* 🔗 Multi-user collaborative editing mode.
-* 🎙️ Voice assistant for accessibility.
-* 📡 Cloud integration (Google Drive / GitHub save).
-* 🔍 Built-in plagiarism detection.
-* 🧾 Auto reference verification and citation fetching.
+* 🔗 Multi-user collaborative editing mode.\
+* 🎙️ Voice assistant for accessibility.\
+* 📡 Cloud integration (Google Drive / GitHub save).\
+* 🔍 Built-in plagiarism detection.\
+* 🧾 Auto reference verification and citation fetching.\
 
 ---
 
@@ -172,10 +172,10 @@ It reduces manual drafting time, enhances accuracy, and supports researchers, st
 
 ## 🏆 Why This Project Wins
 
-✨ End-to-end AI automation for research generation.
-✨ Functional + visually stunning interface.
-✨ Real-world applicability with Gemini 2.5 Pro.
-✨ Demonstrates deep technical and design skills.
+✨ End-to-end AI automation for research generation.\
+✨ Functional + visually stunning interface.\
+✨ Real-world applicability with Gemini 2.5 Pro.\
+✨ Demonstrates deep technical and design skills.\
 ✨ Complete, ready-to-show hackathon-grade product.
 
 ---
