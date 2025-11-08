@@ -105,7 +105,8 @@ Steps:
 ## 🖥️ UI & UX Highlights
 
 <p align="center">
-  <img src="assets/demo1.png" alt="UI Screenshot" width="80%"/>
+  <img src="assets/demo1.png" alt="UI Screenshot" width="80%"/></br>
+  <img src="assets/flowchart.png" alt="Flowchart" width="80%"/>
 </p>
 
 * 🖤 Dark glassy UI with glowing cyan elements.
