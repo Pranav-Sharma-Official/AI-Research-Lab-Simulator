@@ -73,7 +73,7 @@ The **AI Research Lab Simulator** is a next-generation **multi-agent Gen AI plat
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/<your-username>/AI-Research-Lab-Simulator.git
+git clone https://github.com/Pranav-Sharma-Official/AI-Research-Lab-Simulator.git
 cd AI-Research-Lab-Simulator
 pip install -r requirements.txt
 ```
@@ -105,7 +105,7 @@ Steps:
 ## 🖥️ UI & UX Highlights
 
 <p align="center">
-  <img src="https://github.com/<your-username>/AI-Research-Lab-Simulator/assets/demo1.png" alt="UI Screenshot" width="80%"/>
+  <img src="https://github.com/Pranav-Sharma-Official/AI-Research-Lab-Simulator/assets/demo1.png" alt="UI Screenshot" width="80%"/>
 </p>
 
 * 🖤 Dark glassy UI with glowing cyan elements.
