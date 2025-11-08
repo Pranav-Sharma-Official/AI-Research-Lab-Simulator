@@ -164,10 +164,9 @@ It reduces manual drafting time, enhances accuracy, and supports researchers, st
 
 ## 👥 Team & Contributions
 
-| Member            | Role                  | Contributions                                          |
-| ----------------- | --------------------- | ------------------------------------------------------ |
-| **Pranav Sharma** | Team Lead & Developer | Project architecture, backend, and prompt engineering. |
-| **PS Innovators** | Support               | Testing, documentation, and feature QA.                |
+| Member            | Role                  | Contributions                                                                              |
+| ----------------- | --------------------- | ------------------------------------------------------------------------------------------ |
+| **Pranav Sharma** | Team Lead & Developer | Project architecture, backend, prompt engineering, Testing, documentation, and feature QA. |
 
 ---
 
