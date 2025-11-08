@@ -108,10 +108,10 @@ Steps:
   <img src="assets/demo1.png" alt="UI Screenshot" width="80%"/>
 </p>
 
-* 🖤 Dark glassy UI with glowing cyan elements.\
-* 📊 Live progress tracking for all 7 agents.\
-* 💬 Persistent chat assistant using Streamlit’s chat UI.\
-* 🧾 Real-time result rendering with collapsible outputs.\
+* 🖤 Dark glassy UI with glowing cyan elements.
+* 📊 Live progress tracking for all 7 agents.
+* 💬 Persistent chat assistant using Streamlit’s chat UI.
+* 🧾 Real-time result rendering with collapsible outputs.
 * 💡 Responsive for both laptops and tablets.
 
 ---
@@ -154,11 +154,11 @@ It reduces manual drafting time, enhances accuracy, and supports researchers, st
 
 ## 🔮 Future Scope
 
-* 🔗 Multi-user collaborative editing mode.\
-* 🎙️ Voice assistant for accessibility.\
-* 📡 Cloud integration (Google Drive / GitHub save).\
-* 🔍 Built-in plagiarism detection.\
-* 🧾 Auto reference verification and citation fetching.\
+* 🔗 Multi-user collaborative editing mode.
+* 🎙️ Voice assistant for accessibility.
+* 📡 Cloud integration (Google Drive / GitHub save).
+* 🔍 Built-in plagiarism detection.
+* 🧾 Auto reference verification and citation fetching.
 
 ---
 
