@@ -34,6 +34,8 @@
 
 The **AI Research Lab Simulator** is a next-generation **multi-agent Gen AI platform** powered by **Google Gemini 2.5 Pro**, designed to **autonomously generate, review, and finalize research papers**. It replicates the roles of human researchers — from ideation to publication.
 
+View my live project here: [**PROJECT**](https://pranav-sharma-ai-research-lab-simulator.streamlit.app/)
+
 ---
 
 ## 🧩 Features
