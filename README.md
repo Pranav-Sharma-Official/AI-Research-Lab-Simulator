@@ -39,9 +39,9 @@ The **AI Research Lab Simulator** is a next-generation **multi-agent Gen AI plat
 
 ✅ Multi-Agent Workflow — 7 AI agents simulate the human research process.\
 ✅ Real-time Streamlit Interface with glassy, futuristic design.\
-✅ Interactive AI Chat with persistent context memory.
-✅ One-click `.docx` export for editable research papers.
-✅ Secure API handling with `.env` integration.
+✅ Interactive AI Chat with persistent context memory.\
+✅ One-click `.docx` export for editable research papers.\
+✅ Secure API handling with `.env` integration.\
 ✅ Fully dark, modern UI optimized for laptops and tablets.
 
 ---
