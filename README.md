@@ -105,7 +105,7 @@ Steps:
 ## 🖥️ UI & UX Highlights
 
 <p align="center">
-  <img src="https://github.com/Pranav-Sharma-Official/AI-Research-Lab-Simulator/assets/demo1.png" alt="UI Screenshot" width="80%"/>
+  <img src="assets/demo1.png" alt="UI Screenshot" width="80%"/>
 </p>
 
 * 🖤 Dark glassy UI with glowing cyan elements.
