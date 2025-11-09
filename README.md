@@ -36,6 +36,15 @@ The **AI Research Lab Simulator** is a next-generation **multi-agent Gen AI plat
 
 View my live project here: [**PROJECT**](https://pranav-sharma-ai-research-lab-simulator.streamlit.app/)
 
+> ⚠️ **IMPORTANT NOTE**  
+> When you open the live demo link, you might see a message saying:  
+> _“This app is sleeping due to inactivity.”_  
+>
+> ⏰ Please click the **“Wake up”** button and wait for **30–60 seconds**.  
+> Streamlit Cloud will automatically restart the app — after which everything will work perfectly! 🚀  
+>
+> 💡 *(This is a normal behavior for free-tier hosting and doesn’t affect functionality.)*
+
 ---
 
 ## 🧩 Features
